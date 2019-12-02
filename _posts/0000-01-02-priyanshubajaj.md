@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Messi wins the Ballon D'or
 Use the left arrow to go back!
